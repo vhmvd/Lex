@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/vhmvd/Desktop/Lex'
+make: Leaving directory '/home/vhmvd/Desktop/Lex'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
